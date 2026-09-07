@@ -1,2 +1,2 @@
-# xyzranblog.github.io
+# lalalanote.github.io
 a blog
